@@ -1,0 +1,13 @@
+header{
+    background-color: darkgreen;
+    color: azure;
+    text-align: center;
+}
+main{
+    background-color: lightgray;
+    background-image: url(assignment/record.png);
+}
+body{
+    margin: 0;
+    padding: 1em;
+}
